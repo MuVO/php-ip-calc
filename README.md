@@ -3,6 +3,7 @@ IP subnet calculator
 
 # TODO
 
+ * Describe a use-cases in this readme
  * Implement an IPv6 support
 
 # Credits
